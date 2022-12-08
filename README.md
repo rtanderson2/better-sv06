@@ -8,9 +8,17 @@ PEI Plate, 25 point Auto Leveling, 32bit Silent Mainboard, Dual Z axis, and Belt
 
 - User Manual. [Click here](https://drive.google.com/drive/folders/10uJUe-J0IutQSNI4IS-Tbwym4Ch8Yw6x)
 
+# Some Features
+
+There are a couple features that have been enabled that were off by default. 
+- High speed probing
+- Probe wizard
+- Double-click to view the always available baby stepping menu
+- Baby steps changed to 0.01mm 
+
 # Learn more
 
-on Sovol Official Website: https://sovol3d.com/products/sovol-sv06-direct-drive-3d-printer
+Sovol Official Website: https://sovol3d.com/products/sovol-sv06-direct-drive-3d-printer
 
 # Source code
 

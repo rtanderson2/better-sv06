@@ -14,17 +14,4 @@ on Sovol Official Website: https://sovol3d.com/products/sovol-sv06-direct-drive-
 
 # Source code
 
-This is an unofficial source code for Sovol SV06. The original Marlin source code has been modified to include support for high speed probing. 
-
-Sovol doesn’t provide tech help for help users to modify source code, but if you need us to add more functions, you are welcome to send us your suggestions via Facebook Messenger or email 
-info@sovol3d.com
-
-
-# Join Sovol Community
-
-- Sovol Facebook page: https://www.facebook.com/sovol3d/
-- Sovol Youtube Channel: https://www.youtube.com/c/Sovol/videos
-- Sovol Offcial User Group: https://www.facebook.com/groups/sovol3d
-- Sovol Forum website: https://forum.sovol3d.com/
-
-
+This is an unofficial source code for Sovol SV06. The original Marlin source code has been modified to include support for high speed probing. I hold no responsibility if you brick your printer using this source code. And also, I use this source code. 

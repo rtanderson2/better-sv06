@@ -75,7 +75,7 @@
  * Firmware Version information
  */
 #ifndef FIRMWARE_VERSION
-  #define FIRMWARE_VERSION "V1.9.2_A"
+  #define FIRMWARE_VERSION "V1.3.3"
 #endif
 
 
@@ -107,7 +107,8 @@
    * documentation about a specific Marlin release. Displayed in the Info Menu.
    */
 #ifndef WEBSITE_URL
-  #define WEBSITE_URL "sovol3d.com"
+  #define WEBSITE_URL "randrsn.com"
+  /*#define WEBSITE_URL "sovol3d.com"*/
 #endif
 
 /**

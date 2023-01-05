@@ -75,7 +75,7 @@
  * Firmware Version information
  */
 #ifndef FIRMWARE_VERSION
-  #define FIRMWARE_VERSION "V1.3.3"
+  #define FIRMWARE_VERSION "V1.3.4"
 #endif
 
 
